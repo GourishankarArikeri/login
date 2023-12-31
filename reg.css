@@ -1,0 +1,81 @@
+.main{
+    width:100%;
+    height:auto;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background-color: rgb(238,174,202);
+    background: radial-gradient(circle, #e9a1c029 9%, rgba(148,187,233,1) 89%);
+
+}
+.reg{
+    padding:20px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    width:500px;
+    height:auto;
+    font-size:large;
+    font-weight:bolder;
+    border:2px solid white;
+    border-radius:10px;
+    background-color:rgba(230, 134, 192, 0.268);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-wrap:wrap;
+
+
+}
+.hh{
+    display:center;
+    justify-content:center;
+    align-items:center;
+
+}
+.form{
+    padding:10px;
+    margin:10px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    border:2px solid white;
+    border-radius: 3px;
+    gap:10px;
+    flex-direction:column;
+    
+
+
+}
+.label{
+    padding:10px;
+    margin:10px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:larger;
+    font-weight:bolder;
+    height:auto;
+    /* border:2px solid black; */
+
+}
+.input{
+    padding:20px;
+    margin:10px;
+    font-size:large;
+    font-weight:bolder;
+    height:auto;
+    border:2px solid black;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    border-radius:20px;
+}
+.click{
+    padding:20px;
+    margin:10px;
+    background-color:rgb(105, 225, 225);
+    border-radius:20px;
+    width:200px;
+    font-size: larger;
+    font-weight:bolder;
+}
